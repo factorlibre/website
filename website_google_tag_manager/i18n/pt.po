@@ -1,22 +1,18 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * website_google_tag_manager
+# 	* website_google_tag_manager
 #
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0c\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-24 04:16+0000\n"
-"PO-Revision-Date: 2016-12-24 04:16+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2016\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
@@ -25,25 +21,25 @@ msgid ""
 "                                How to get my GTM container ID"
 msgstr ""
 "<i class=\"fa fa-arrow-right\"/>\n"
-"                                So erhalte ich meine GTM-Container-ID"
+"                                Como obter o meu ID de contentor GTM"
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
 msgid ""
 "<span class=\"fa fa-lg fa-globe\" title=\"Values set here are website-"
 "specific.\" groups=\"website.group_multi_website\"/>"
-msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Die hier festgelegten Werte gelten pro Website.\" groups=\"website.group_multi_website\"/>"
+msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Os valores definidos aqui são específicos de cada website.\" groups=\"website.group_multi_website\"/>"
 
 #. module: website_google_tag_manager
 #: model:ir.model,name:website_google_tag_manager.model_res_config_settings
 msgid "Config Settings"
-msgstr "Konfigurationseinstellungen"
+msgstr "Configurações"
 
 #. module: website_google_tag_manager
 #: model:ir.model.fields,field_description:website_google_tag_manager.field_res_config_settings__google_tag_manager_key
 #: model:ir.model.fields,field_description:website_google_tag_manager.field_website__google_tag_manager_key
 msgid "Container ID"
-msgstr "Container-ID"
+msgstr "ID de contentor"
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
@@ -58,9 +54,9 @@ msgstr "Google Tag Manager"
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
 msgid "Manage all your tags without editing code."
-msgstr "Verwalten Sie alle Ihre Tags ohne Code zu bearbeiten."
+msgstr "Gerir todas as suas etiquetas sem editar código."
 
 #. module: website_google_tag_manager
 #: model:ir.model,name:website_google_tag_manager.model_website
 msgid "Website"
-msgstr "Webseite"
+msgstr "Website"
